@@ -1,0 +1,34 @@
+[
+ {
+    "nama" : "Karina",
+    "umur" : 20,
+    "telp" : "0827382",
+    "lulus" : true,
+    "hobby" : [
+        "makan",
+        "tidur"
+    ],
+    "pembimbing" : {
+        "pembimbing1": "daddy",
+        "pembimbing2": "erik"
+    }
+
+    
+},
+{
+    "nama" : "Karina",
+    "umur" : 20,
+    "telp" : "0827382",
+    "lulus" : true,
+    "hobby" : [
+        "makan",
+        "tidur"
+    ],
+    "pembimbing" : {
+        "pembimbing1": "daddy",
+        "pembimbing2": "erik"
+    }
+
+    
+}
+]
