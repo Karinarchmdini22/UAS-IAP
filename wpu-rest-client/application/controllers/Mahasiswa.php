@@ -29,7 +29,7 @@ class Mahasiswa extends CI_Controller
         $this->form_validation->set_rules('nrp', 'NRP', 'required|numeric');
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
 
-        if ($this->form_validation->run() == false) {
+        if ($this->form_validation->run() == false ) {
             $this->load->view('templates/header', $data);
             $this->load->view('mahasiswa/tambah');
             $this->load->view('templates/footer');
