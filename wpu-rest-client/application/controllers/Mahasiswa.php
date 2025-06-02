@@ -36,7 +36,7 @@ class Mahasiswa extends CI_Controller
         } else {
             $this->Mahasiswa_model->tambahDataMahasiswa();
             $this->session->set_flashdata('flash', 'Ditambahkan');
-            redirect('mahasiswa');
+            redirect('mahasiswa'); 
         }
     }
 

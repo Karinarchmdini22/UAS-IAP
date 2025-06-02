@@ -40,7 +40,7 @@ class Mahasiswa extends REST_Controller
             $this->response([
                 'status' => false,
                 'message' => 'id not found'
-            ], REST_Controller::HTTP_NOT_FOUND);
+            ], REST_Controller::HTTP_NOT_FOUND); 
         }
     }
 
