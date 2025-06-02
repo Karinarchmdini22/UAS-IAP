@@ -183,9 +183,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/7.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/8.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Pizza Hut.</p>
+                <p class="card-text">Mengikuti organisasi PMI.</p>
               </div>
             </div>
           </div>
@@ -194,16 +194,16 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Wpu-Movie.</p>
+                <p class="card-text">Membuat web menggunakan rest-api</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/9.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">WPU-Portfolio.</p>
+                <p class="card-text">Memasak.</p>
               </div>
             </div>
           </div>   
@@ -214,7 +214,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">WPU-rest-client.</p>
+                <p class="card-text">.</p>
               </div>
             </div>
           </div> 
@@ -222,7 +222,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/5.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">WPU-rest-server.</p>
+                <p class="card-text">Programming.</p>
               </div>
             </div>
           </div>
