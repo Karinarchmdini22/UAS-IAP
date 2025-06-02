@@ -175,7 +175,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
     <!-- Portfolio -->
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <div class="row pt-4 mb-6 mt-5">
+        <div class="row pt-4 mb-6 mt-3">
           <div class="col text-center">
             <h2>Portfolio</h2>
           </div>
