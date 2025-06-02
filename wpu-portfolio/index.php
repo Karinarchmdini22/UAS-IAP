@@ -104,10 +104,10 @@ if (isset($media['data']) && count($media['data']) >= 1) {
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya Karina Rachmadini Purba, seorang mahasiswa Sistem Informasi di UINIB Padang. Saya memiliki ketertarikan besar untuk mencoba berbagai hal baru, selalu berusaha menantang diri sendiri dan belajar melalui pengalaman. Perjalanan saya di dunia teknologi dimulai dengan rasa penasaran terhadap pemrograman, yang kini menjadi salah satu minat utama saya. Meskipun masih terus belajar dan mengasah keterampilan, saya sangat antusias dengan berbagai peluang yang ditawarkan oleh dunia ini.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Di luar pemrograman, saya juga tertarik pada pembuatan konten digital. Saya menikmati merekam aktivitas sehari-hari, berbagi proses belajar, dan membagikannya di YouTube. Menjadi kreator memberi saya ruang berekspresi dan berinteraksi dengan lebih banyak orang. Saya terus bersemangat menjelajahi peluang baru di dunia coding maupun konten kreatif.</p>
           </div>
         </div>
       </div>
@@ -175,7 +175,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
     <!-- Portfolio -->
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <div class="row pt-4 mb-4">
+        <div class="row pt-4 mb-6 mt-5">
           <div class="col text-center">
             <h2>Portfolio</h2>
           </div>
@@ -183,9 +183,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/7.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Pizza Hut.</p>
               </div>
             </div>
           </div>
@@ -194,7 +194,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Wpu-Movie.</p>
               </div>
             </div>
           </div>
@@ -203,7 +203,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">WPU-Portfolio.</p>
               </div>
             </div>
           </div>   
@@ -214,7 +214,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">WPU-rest-client.</p>
               </div>
             </div>
           </div> 
@@ -222,8 +222,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/5.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
-                </p>
+                <p class="card-text">WPU-rest-server.</p>
               </div>
             </div>
           </div>
@@ -232,7 +231,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/6.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">JSON.</p>
               </div>
             </div>
           </div>
