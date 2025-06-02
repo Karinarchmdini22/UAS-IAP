@@ -54,7 +54,7 @@ $menu = $menu['menu'];
                  <h5 class="card-title"><?= $row["nama"]; ?></h5>
                  <p class="card-text"><?= $row["deskripsi"]; 
                  ?></p>
-                 <h5 class="card-title">Rp. <?= $row["harga"]
+                 <h5 class="card-title">Rp. <?= number_format( $row["harga"], 0, ',', '.')
                  ; ?></h5>
                  <a href="#" class="btn btn-primary">Pesan
                  Sekarang</a>
